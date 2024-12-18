@@ -15,7 +15,7 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Nishantsantosh/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Nishantsantosh/Excel-Sales-Analytics/blob/main/P%20%26%20L%20REPORT%20FOR%20FINANCE%20REPORT.pdf)_ 
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Nishantsantosh/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
